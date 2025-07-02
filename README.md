@@ -1,0 +1,1 @@
+# azure-factory-vision-inspection
