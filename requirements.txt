@@ -1,0 +1,12 @@
+python-dotenv
+openai
+tiktoken
+azure-identity
+opencv-python
+azure-storage-blob
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pydantic
